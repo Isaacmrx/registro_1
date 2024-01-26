@@ -4,3 +4,6 @@
 
 para ejecutar el sistema debes poner:
 '''npm install'''
+
+
+mañana es vierenes
